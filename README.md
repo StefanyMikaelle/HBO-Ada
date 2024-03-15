@@ -2,8 +2,7 @@
 
 Projeto final do curso de Frontendo focado em React da Ada.
 
-<a href="src\assets\hbo-clone.PNG"></a>
-
+![HBO-clone](src\assets\hbo-clone.PNG)
 
 
 ## 🛠️ Abrir e rodar o projeto FRONTEND
