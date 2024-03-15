@@ -2,7 +2,7 @@
 
 Projeto final do curso de Frontendo focado em React da Ada.
 
-![HBO-Max Clone Browser](https://ibb.co/Y3nj5Zq)
+<a href="src\assets\hbo-clone.PNG"></a>
 
 
 
