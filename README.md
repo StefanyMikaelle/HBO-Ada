@@ -2,6 +2,10 @@
 
 Projeto final do curso de Frontendo focado em React da Ada.
 
+![HBO-Max Clone Browser](https://ibb.co/Y3nj5Zq)
+
+
+
 ## 🛠️ Abrir e rodar o projeto FRONTEND
 
 Para abrir e rodar o front do projeto, execute `npm i` para instalar as dependências e `npm run dev` para iniciar o projeto.
